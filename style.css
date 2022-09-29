@@ -1,0 +1,46 @@
+body{
+    background-color: #222222;
+    color: aquamarine;
+}
+header{
+    display: flex;
+}
+.nave {
+    list-style: none;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    border-bottom: solid 4px rgb(18, 212, 212);
+    height: 40px;
+    padding-right: 20px;
+    
+}
+li a{
+    text-decoration: none;
+    color: rgb(18, 212, 212);
+}
+.letras{
+    color: rgb(18, 212, 212);
+
+}
+td{
+    text-align: center;
+    border: solid 1px rgb(18, 212, 212);
+    height: 30px;
+}
+table{
+    text-align: center;
+    width: 100%;
+    height: 50%;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+caption{
+    font-size:40px ;
+}
+th{
+    border: solid 1px rgb(18, 212, 212);
+    height: 30px;
+}
